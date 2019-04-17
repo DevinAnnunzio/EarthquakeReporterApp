@@ -1,0 +1,2 @@
+# EarthquakeReporter
+# EarthquakeReporterApp
